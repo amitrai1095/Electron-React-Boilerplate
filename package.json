@@ -15,7 +15,7 @@
         "express": "^4.15.3",
         "history": "4.6.0",
         "include-all": "1.0.0",
-        "lodash": "4.17.4",
+        "lodash": "4.17.21",
         "mkdirp": "^0.5.1",
         "nedb": "^1.8.0",
         "node-libcurl": "^1.1.0",
